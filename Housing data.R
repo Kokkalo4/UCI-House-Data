@@ -269,15 +269,6 @@ head(pred)
 head(test[,"MEDV"])
 
 
-#MEASURING REGRESSION MODEL EFFECTIVENESS:
-
-#MAE - mean absolute error.
-#MSE - mean squared error.
-#RMSE - root mean squared error.
-#R2 - R^2.
-
-
-
 
 #REGRESSION DIAGNOSTICS
 par(mfrow = c(2,2))
